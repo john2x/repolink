@@ -1,0 +1,22 @@
+* Repolink
+
+When you're too lazy to browse Github or Bitbucket to grab a link to a file/line
+to share with a friend/colleague.
+
+** Installation
+
+Save ~repolink.el~ in your load path.
+
+** Usage
+
+Mark a region (or don't) in a file that's tracked by Git, then do
+=M-x repolink RET=.  A link of the file to the remote repo (with the
+marked region highlighted) will be added to the kill ring.
+
+At the moment only Github and Bitbucket (Git only) is available.
+
+** Demo
+
+** License
+
+See ~LICENSE.txt~.
