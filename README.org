@@ -17,6 +17,8 @@ At the moment only Github and Bitbucket (Git only) is available.
 
 ** Demo
 
+[[https://raw.githubusercontent.com/john2x/repolink/master/repolink-demo.gif]]
+
 ** License
 
 See ~LICENSE.txt~.
